@@ -14,11 +14,13 @@
 // Nama: Muhammad Mufti
 // NIM: 24110400020
 // Refleksi:
-// blablabla
-// blablabla
-// blablabla
-// blablabla
-// blablabla
+
+//from this assignment saya jadi lebih paham tentang implementasi basic REST API menggunakan Express.js.
+//I learn how to menggunakan HTTP method seperti GET, POST, PUT, dan DELETE, serta bagaimana melakukan validasi request dan memberikan status code yang sesuai. 
+//Selain itu, I juga belajar penggunaan route parameter dan query parameter, serta cara mengelola data sederhana menggunakan array sebagai in-memory database. 
+//Challenge terbesar adalah memahami flow request-response dan memastikan setiap endpoint dapat handle error dengan benar. 
+// Overall, tugas ini cukup membantu untuk memberikan gambaran tentang bagaimana backend development bekerja secara lebih praktikal.
+
 
 const express = require("express");
 const app = express();
